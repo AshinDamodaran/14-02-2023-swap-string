@@ -1,0 +1,15 @@
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.csproj.AssemblyReference.cache
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.AssemblyInfoInputs.cache
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.AssemblyInfo.cs
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\bin\Debug\net6.0\myFirstProject.exe
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\bin\Debug\net6.0\myFirstProject.deps.json
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\bin\Debug\net6.0\myFirstProject.runtimeconfig.json
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\bin\Debug\net6.0\myFirstProject.dll
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\bin\Debug\net6.0\myFirstProject.pdb
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.dll
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\refint\myFirstProject.dll
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.pdb
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\myFirstProject.genruntimeconfig.cache
+C:\Users\ashin.damodaran\source\repos\myFirstProject\myFirstProject\obj\Debug\net6.0\ref\myFirstProject.dll

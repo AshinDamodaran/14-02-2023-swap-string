@@ -1,0 +1,15 @@
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\bin\Debug\net6.0\projectexperion.exe
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\bin\Debug\net6.0\projectexperion.deps.json
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\bin\Debug\net6.0\projectexperion.runtimeconfig.json
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\bin\Debug\net6.0\projectexperion.dll
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\bin\Debug\net6.0\projectexperion.pdb
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.csproj.AssemblyReference.cache
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.AssemblyInfoInputs.cache
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.AssemblyInfo.cs
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.csproj.CoreCompileInputs.cache
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.dll
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\refint\projectexperion.dll
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.pdb
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\projectexperion.genruntimeconfig.cache
+C:\Users\ashin.damodaran\source\repos\ConsoleApp1\projectexperion\obj\Debug\net6.0\ref\projectexperion.dll
