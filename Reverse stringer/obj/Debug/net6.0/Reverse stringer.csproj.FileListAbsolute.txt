@@ -1,0 +1,15 @@
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\bin\Debug\net6.0\Reverse stringer.exe
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\bin\Debug\net6.0\Reverse stringer.deps.json
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\bin\Debug\net6.0\Reverse stringer.runtimeconfig.json
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\bin\Debug\net6.0\Reverse stringer.dll
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\bin\Debug\net6.0\Reverse stringer.pdb
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.csproj.AssemblyReference.cache
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.AssemblyInfoInputs.cache
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.AssemblyInfo.cs
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.csproj.CoreCompileInputs.cache
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.dll
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\refint\Reverse stringer.dll
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.pdb
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\Reverse stringer.genruntimeconfig.cache
+C:\Users\ashin.damodaran\source\repos\Reverse stringer\obj\Debug\net6.0\ref\Reverse stringer.dll
